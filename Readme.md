@@ -33,4 +33,6 @@ SegurBanca/
 └── README.md
 
 ✒️ Autor
-Desarrollado por Ing° Jaime Meza - Agosto, 2026.
+Desarrollado por Ing° Santiago Vivas-Zambrano - Agosto, 2026.
+UCV, Caracas
+Venezuela
