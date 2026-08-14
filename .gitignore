@@ -1,0 +1,18 @@
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de salida de PyInstaller
+build/
+dist/
+*.spec
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Configuración de editores
+.vscode/
+.idea/
