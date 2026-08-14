@@ -1,9 +1,9 @@
 # SegurBanca: Fundamentos Criptográficos y Fortalecimiento Digital Frente a las Ciberestafas en la Banca Venezolana
 
-**Autor:** Ing° Santiago Vivas-Zambrano
-**Investigador y Desarrollador Independiente
-**Fecha:** Agosto, 2026
-**Caracas, Venezuela
+**Autor:** Ing° Santiago Vivas-Zambrano  
+**Investigador y Desarrollador Independiente  
+**Fecha:** Agosto, 2026  
+**Caracas, Venezuela  
 **Categoría:** Ciberseguridad, Criptografía Aplicada, Desarrollo de Software  
 **Repositorio:** [github.com/Puma0x1811/SegurBanca](https://github.com/Puma0x1811/SegurBanca)
 
